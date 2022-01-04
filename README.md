@@ -1,8 +1,6 @@
 - 👋 Hi, I’m  Lê Hồng Anh
-- 👀 I’m interested in  bạn vì sao lại vào đây
-- 🌱  Tôi có thể cin in4 bạn dc ko :>
-- 💞️ I’m looking to  kết bạn với bạn  :<
-- 📫 How to reach  với bạn đây nhỉ ? hãy kết bạn với tôi  nha :3 
+- 👀 Làm sao bạn có thể vào đây ?
+- 🌱 Nếu đã vào rồi thì cho mình xin in4 nha :>
 - fb : https://www.facebook.com/lehonganha9
 
 <!---
